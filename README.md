@@ -75,3 +75,21 @@ via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilitie
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Image Screenshots
+
+Add New User
+
+![Add New User](img/add.png "Add New User")
+
+List All Users
+
+![List All Users](img/list.png "List All Users")
+
+Edit User
+
+![Edit User](img/edit.png "Edit User")
+
+Laravel Cloud
+
+![Laravel Cloud](img/cloud.png "Laravel Cloud")
